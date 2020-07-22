@@ -35,7 +35,7 @@ public class PlatinumSwordItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 5;
+				return 4;
 			}
 
 			public int getEnchantability() {

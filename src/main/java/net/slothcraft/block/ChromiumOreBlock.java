@@ -50,7 +50,7 @@ public class ChromiumOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(5.4f, 8.0018058251898f).lightValue(0)
-					.harvestLevel(4).harvestTool(ToolType.PICKAXE));
+					.harvestLevel(5).harvestTool(ToolType.PICKAXE));
 			setRegistryName("chromium_ore");
 		}
 

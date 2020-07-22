@@ -50,7 +50,7 @@ public class NickelOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(4.5f, 6.915809336112958f).lightValue(0)
-					.harvestLevel(3).harvestTool(ToolType.PICKAXE));
+					.harvestLevel(2).harvestTool(ToolType.PICKAXE));
 			setRegistryName("nickel_ore");
 		}
 

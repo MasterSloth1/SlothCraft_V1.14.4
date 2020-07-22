@@ -50,7 +50,7 @@ public class UraniumOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(5.1000000000000005f, 7.644148959359387f)
-					.lightValue(0).harvestLevel(3).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(4).harvestTool(ToolType.PICKAXE));
 			setRegistryName("uranium_ore");
 		}
 

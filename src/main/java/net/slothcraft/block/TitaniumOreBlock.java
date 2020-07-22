@@ -50,7 +50,7 @@ public class TitaniumOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(5.699999999999999f, 8.355508495130707f)
-					.lightValue(0).harvestLevel(4).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(3).harvestTool(ToolType.PICKAXE));
 			setRegistryName("titanium_ore");
 		}
 

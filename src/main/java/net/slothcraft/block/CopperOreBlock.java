@@ -50,7 +50,7 @@ public class CopperOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3.5999999999999996f, 5.785155024015763f)
-					.lightValue(0).harvestLevel(2).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(1).harvestTool(ToolType.PICKAXE));
 			setRegistryName("copper_ore");
 		}
 

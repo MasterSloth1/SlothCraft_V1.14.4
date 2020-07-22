@@ -35,7 +35,7 @@ public class UraniumPickaxeItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 3;
+				return 5;
 			}
 
 			public int getEnchantability() {

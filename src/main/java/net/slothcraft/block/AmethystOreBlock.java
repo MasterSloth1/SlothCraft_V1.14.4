@@ -51,7 +51,7 @@ public class AmethystOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3.8999999999999995f, 6.16772052035587f)
-					.lightValue(0).harvestLevel(3).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(2).harvestTool(ToolType.PICKAXE));
 			setRegistryName("amethyst_ore");
 		}
 

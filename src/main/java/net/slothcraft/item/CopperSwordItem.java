@@ -35,7 +35,7 @@ public class CopperSwordItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 1;
 			}
 
 			public int getEnchantability() {

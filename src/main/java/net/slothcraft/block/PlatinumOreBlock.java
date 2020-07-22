@@ -50,7 +50,7 @@ public class PlatinumOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(7.199999999999999f, 10.07253992982465f)
-					.lightValue(0).harvestLevel(5).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(4).harvestTool(ToolType.PICKAXE));
 			setRegistryName("platinum_ore");
 		}
 

@@ -35,7 +35,7 @@ public class LeadSwordItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 3;
+				return 2;
 			}
 
 			public int getEnchantability() {

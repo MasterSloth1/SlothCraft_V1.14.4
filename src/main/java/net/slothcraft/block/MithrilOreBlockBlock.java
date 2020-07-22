@@ -35,7 +35,7 @@ public class MithrilOreBlockBlock extends SlothcraftModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(5f, 10f).lightValue(0).harvestLevel(6)
+			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(5f, 10f).lightValue(0).harvestLevel(5)
 					.harvestTool(ToolType.PICKAXE));
 			setRegistryName("mithril_ore_block");
 		}

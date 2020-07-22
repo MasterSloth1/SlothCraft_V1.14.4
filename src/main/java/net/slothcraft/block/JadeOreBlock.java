@@ -51,7 +51,7 @@ public class JadeOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(4.2f, 6.544439133039291f).lightValue(0)
-					.harvestLevel(3).harvestTool(ToolType.PICKAXE));
+					.harvestLevel(2).harvestTool(ToolType.PICKAXE));
 			setRegistryName("jade_ore");
 		}
 

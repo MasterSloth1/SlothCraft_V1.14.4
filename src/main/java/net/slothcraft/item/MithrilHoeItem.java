@@ -35,7 +35,7 @@ public class MithrilHoeItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 6;
+				return 5;
 			}
 
 			public int getEnchantability() {

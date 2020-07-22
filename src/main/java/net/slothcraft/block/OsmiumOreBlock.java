@@ -50,7 +50,7 @@ public class OsmiumOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(6.6000000000000005f, 9.395245850262201f)
-					.lightValue(0).harvestLevel(4).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(3).harvestTool(ToolType.PICKAXE));
 			setRegistryName("osmium_ore");
 		}
 

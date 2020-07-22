@@ -35,7 +35,7 @@ public class SilverAxeItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 4;
+				return 2;
 			}
 
 			public int getEnchantability() {

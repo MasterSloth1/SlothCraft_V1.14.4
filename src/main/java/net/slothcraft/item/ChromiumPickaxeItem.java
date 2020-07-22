@@ -35,7 +35,7 @@ public class ChromiumPickaxeItem extends SlothcraftModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 4;
+				return 6;
 			}
 
 			public int getEnchantability() {

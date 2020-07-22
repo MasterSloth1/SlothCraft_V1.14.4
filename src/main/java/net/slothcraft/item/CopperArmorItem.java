@@ -52,7 +52,7 @@ public class CopperArmorItem extends SlothcraftModElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.EMPTY;
+				return Ingredient.fromStacks(new ItemStack(CopperIngotItem.block, (int) (1)));
 			}
 
 			@OnlyIn(Dist.CLIENT)

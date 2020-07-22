@@ -50,7 +50,7 @@ public class AluminumOreBlock extends SlothcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3.3000000000000003f, 5.3961517264944545f)
-					.lightValue(0).harvestLevel(2).harvestTool(ToolType.PICKAXE));
+					.lightValue(0).harvestLevel(1).harvestTool(ToolType.PICKAXE));
 			setRegistryName("aluminum_ore");
 		}
 
