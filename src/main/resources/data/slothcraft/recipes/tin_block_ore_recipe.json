@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:tin_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:tin_ingot",
+    "count": 9
+  }
+}

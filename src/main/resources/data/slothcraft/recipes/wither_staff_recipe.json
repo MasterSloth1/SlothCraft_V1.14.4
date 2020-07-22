@@ -1,0 +1,30 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wither_rose"
+    },
+    "2": {
+      "item": "slothcraft:staff_stick_item"
+    },
+    "4": {
+      "item": "slothcraft:staff_stick_item"
+    },
+    "5": {
+      "item": "minecraft:bow"
+    },
+    "6": {
+      "item": "slothcraft:staff_stick_item"
+    }
+  },
+  "result": {
+    "item": "slothcraft:wither_staff_ranged_weapon",
+    "count": 1
+  }
+}

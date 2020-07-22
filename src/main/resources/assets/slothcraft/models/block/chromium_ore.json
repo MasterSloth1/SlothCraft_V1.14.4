@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "slothcraft:blocks/chromium_ore",
+    "particle": "slothcraft:blocks/chromium_ore"
+  }
+}

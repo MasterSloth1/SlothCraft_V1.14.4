@@ -1,0 +1,109 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AluminumGearItem"
+      },
+      {
+        "value": "CUSTOM:AmethystGearItem"
+      },
+      {
+        "value": "CUSTOM:ChromiumGearItem"
+      },
+      {
+        "value": "CUSTOM:CopperGearItem"
+      },
+      {
+        "value": "CUSTOM:DiamondGearItem"
+      },
+      {
+        "value": "CUSTOM:EmeraldGearItem"
+      },
+      {
+        "value": "CUSTOM:FlintGearItem"
+      },
+      {
+        "value": "CUSTOM:GobberEndGearItem"
+      },
+      {
+        "value": "CUSTOM:GobberGearItem"
+      },
+      {
+        "value": "CUSTOM:GobberNetherGearItem"
+      },
+      {
+        "value": "CUSTOM:GoldGearItem"
+      },
+      {
+        "value": "CUSTOM:IridiumGearItem"
+      },
+      {
+        "value": "CUSTOM:IronGearItem"
+      },
+      {
+        "value": "CUSTOM:JadeGearItem"
+      },
+      {
+        "value": "CUSTOM:LapisGearItem"
+      },
+      {
+        "value": "CUSTOM:LeadGearItem"
+      },
+      {
+        "value": "CUSTOM:MithrilGearItem"
+      },
+      {
+        "value": "CUSTOM:NickelGearItem"
+      },
+      {
+        "value": "CUSTOM:ObsidianGearItem"
+      },
+      {
+        "value": "CUSTOM:OsmiumGearItem"
+      },
+      {
+        "value": "CUSTOM:PlatinumGearItem"
+      },
+      {
+        "value": "CUSTOM:QuartzGearItem"
+      },
+      {
+        "value": "CUSTOM:RedstoneGearItem"
+      },
+      {
+        "value": "CUSTOM:RubyGearItem"
+      },
+      {
+        "value": "CUSTOM:SilverGearItem"
+      },
+      {
+        "value": "CUSTOM:SteelGearItem"
+      },
+      {
+        "value": "CUSTOM:StoneGearItem"
+      },
+      {
+        "value": "CUSTOM:TinGearItem"
+      },
+      {
+        "value": "CUSTOM:TitaniumGearItem"
+      },
+      {
+        "value": "CUSTOM:UraniumGearItem"
+      },
+      {
+        "value": "CUSTOM:WoodenGearItem"
+      },
+      {
+        "value": "CUSTOM:ZincGearItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gears",
+    "namespace": "forge"
+  }
+}

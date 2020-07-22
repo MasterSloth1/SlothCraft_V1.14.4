@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iridium_axe",
+    "customModelName": "Normal",
+    "name": "Iridium Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftArmourAndWeaponsCreativeTab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 31,
+    "damageVsEntity": 13.0,
+    "usageCount": 754,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/steel"
+    },
+    "2": {
+      "tag": "forge:ingots/steel"
+    },
+    "3": {
+      "tag": "forge:ingots/steel"
+    },
+    "5": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "slothcraft:steel_armorboots",
+    "count": 1
+  }
+}

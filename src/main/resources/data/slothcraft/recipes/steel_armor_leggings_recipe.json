@@ -1,0 +1,36 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/steel"
+    },
+    "1": {
+      "tag": "forge:ingots/steel"
+    },
+    "2": {
+      "tag": "forge:ingots/steel"
+    },
+    "3": {
+      "tag": "forge:ingots/steel"
+    },
+    "5": {
+      "tag": "forge:ingots/steel"
+    },
+    "6": {
+      "tag": "forge:ingots/steel"
+    },
+    "8": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "slothcraft:steel_armorlegs",
+    "count": 1
+  }
+}

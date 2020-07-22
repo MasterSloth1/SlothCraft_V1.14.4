@@ -1,0 +1,16 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:violet_haze_kief_item"
+    },
+    {
+      "item": "slothcraft:glass_receptacle_item"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:packed_glass_receptacle_food",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "slothcraft:block/gearsmakerblock"
+    },
+    "facing=east": {
+      "model": "slothcraft:block/gearsmakerblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "slothcraft:block/gearsmakerblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "slothcraft:block/gearsmakerblock",
+      "y": 270
+    }
+  }
+}

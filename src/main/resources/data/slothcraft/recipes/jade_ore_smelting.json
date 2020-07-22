@@ -1,0 +1,12 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:smelting",
+  "experience": 0.98,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "slothcraft:jade_ore"
+  },
+  "result": {
+    "item": "slothcraft:jade_gem"
+  }
+}

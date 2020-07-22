@@ -1,0 +1,39 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:gems/jade"
+    },
+    "2": {
+      "tag": "forge:gems/jade"
+    },
+    "3": {
+      "tag": "forge:gems/jade"
+    },
+    "4": {
+      "tag": "forge:gems/jade"
+    },
+    "5": {
+      "tag": "forge:gems/jade"
+    },
+    "6": {
+      "tag": "forge:gems/jade"
+    },
+    "7": {
+      "tag": "forge:gems/jade"
+    },
+    "8": {
+      "tag": "forge:gems/jade"
+    }
+  },
+  "result": {
+    "item": "slothcraft:jade_armorbody",
+    "count": 1
+  }
+}

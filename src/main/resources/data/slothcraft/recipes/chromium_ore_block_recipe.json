@@ -1,0 +1,42 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/chromium"
+    },
+    "1": {
+      "tag": "forge:ingots/chromium"
+    },
+    "2": {
+      "tag": "forge:ingots/chromium"
+    },
+    "3": {
+      "tag": "forge:ingots/chromium"
+    },
+    "4": {
+      "tag": "forge:ingots/chromium"
+    },
+    "5": {
+      "tag": "forge:ingots/chromium"
+    },
+    "6": {
+      "tag": "forge:ingots/chromium"
+    },
+    "7": {
+      "tag": "forge:ingots/chromium"
+    },
+    "8": {
+      "tag": "forge:ingots/chromium"
+    }
+  },
+  "result": {
+    "item": "slothcraft:chromium_ore_block",
+    "count": 1
+  }
+}

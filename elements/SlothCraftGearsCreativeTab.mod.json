@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "SlothCraft Gears",
+    "icon": {
+      "value": "CUSTOM:AmethystGearItem"
+    },
+    "showSearch": true
+  }
+}

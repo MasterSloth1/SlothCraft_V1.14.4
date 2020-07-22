@@ -1,0 +1,106 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AluminumPlateItem"
+      },
+      {
+        "value": "CUSTOM:AmethystPlateItem"
+      },
+      {
+        "value": "CUSTOM:ChromiumPlateItem"
+      },
+      {
+        "value": "CUSTOM:CopperPlateItem"
+      },
+      {
+        "value": "CUSTOM:DiamondPlateItem"
+      },
+      {
+        "value": "CUSTOM:EmeraldPlateItem"
+      },
+      {
+        "value": "CUSTOM:FlintPlateItem"
+      },
+      {
+        "value": "CUSTOM:GobberEndPlateItem"
+      },
+      {
+        "value": "CUSTOM:GobberNetherPlateItem"
+      },
+      {
+        "value": "CUSTOM:GobberPlateItem"
+      },
+      {
+        "value": "CUSTOM:GoldPlateItem"
+      },
+      {
+        "value": "CUSTOM:IridiumPlateItem"
+      },
+      {
+        "value": "CUSTOM:IronPlateItem"
+      },
+      {
+        "value": "CUSTOM:JadePlateItem"
+      },
+      {
+        "value": "CUSTOM:LapisPlateItem"
+      },
+      {
+        "value": "CUSTOM:LeadPlateItem"
+      },
+      {
+        "value": "CUSTOM:MithrilPlateItem"
+      },
+      {
+        "value": "CUSTOM:NickelPlateItem"
+      },
+      {
+        "value": "CUSTOM:ObsidianPlateItem"
+      },
+      {
+        "value": "CUSTOM:OsmiumPlateItem"
+      },
+      {
+        "value": "CUSTOM:PlatinumPlateItem"
+      },
+      {
+        "value": "CUSTOM:QuartzPlateItem"
+      },
+      {
+        "value": "CUSTOM:RedstonePlateItem"
+      },
+      {
+        "value": "CUSTOM:RubyPlateItem"
+      },
+      {
+        "value": "CUSTOM:SilverPlateItem"
+      },
+      {
+        "value": "CUSTOM:SteelPlateItem"
+      },
+      {
+        "value": "CUSTOM:TinPlateItem"
+      },
+      {
+        "value": "CUSTOM:TitaniumPlateItem"
+      },
+      {
+        "value": "CUSTOM:UraniumPlateItem"
+      },
+      {
+        "value": "CUSTOM:WoodPlateItem"
+      },
+      {
+        "value": "CUSTOM:ZincPlateItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "plates",
+    "namespace": "forge"
+  }
+}

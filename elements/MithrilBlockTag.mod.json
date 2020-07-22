@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MithrilOreBlock"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "storage_blocks/mithril",
+    "namespace": "forge"
+  }
+}

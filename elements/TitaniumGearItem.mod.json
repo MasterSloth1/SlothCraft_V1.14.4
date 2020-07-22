@@ -1,0 +1,29 @@
+{
+  "_fv": 8,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanium_gear",
+    "customModelName": "Normal",
+    "name": "Titanium Gear",
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftGearsCreativeTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "add 4 Titanium ingots + 1 stone gear to the Gear's Maker"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

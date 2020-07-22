@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AluminumGearItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gears/aluminum",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:gems/amethyst"
+    },
+    "1": {
+      "tag": "forge:gems/amethyst"
+    },
+    "2": {
+      "tag": "forge:gems/amethyst"
+    },
+    "3": {
+      "tag": "forge:gems/amethyst"
+    },
+    "4": {
+      "tag": "forge:gems/amethyst"
+    },
+    "5": {
+      "tag": "forge:gems/amethyst"
+    },
+    "6": {
+      "tag": "forge:gems/amethyst"
+    },
+    "7": {
+      "tag": "forge:gems/amethyst"
+    },
+    "8": {
+      "tag": "forge:gems/amethyst"
+    }
+  },
+  "result": {
+    "item": "slothcraft:amethyst_ore_block",
+    "count": 1
+  }
+}

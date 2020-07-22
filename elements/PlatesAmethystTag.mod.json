@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AmethystPlateItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "plates/amethyst",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/zinc"
+    },
+    "2": {
+      "tag": "forge:ingots/zinc"
+    },
+    "3": {
+      "tag": "forge:ingots/zinc"
+    },
+    "5": {
+      "tag": "forge:ingots/zinc"
+    }
+  },
+  "result": {
+    "item": "slothcraft:zinc_armorboots",
+    "count": 1
+  }
+}

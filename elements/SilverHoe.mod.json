@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_hoe",
+    "customModelName": "Normal",
+    "name": "Silver Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftArmourAndWeaponsCreativeTab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 25,
+    "damageVsEntity": 4.0,
+    "usageCount": 569,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

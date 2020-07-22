@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:titanium_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:titanium_ingot",
+    "count": 9
+  }
+}

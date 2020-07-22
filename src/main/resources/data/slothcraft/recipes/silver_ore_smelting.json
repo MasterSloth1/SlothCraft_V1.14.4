@@ -1,0 +1,12 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:smelting",
+  "experience": 1.26,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "slothcraft:silver_ore"
+  },
+  "result": {
+    "item": "slothcraft:silver_ingot"
+  }
+}

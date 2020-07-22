@@ -1,0 +1,12 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:smelting",
+  "experience": 1.26,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "slothcraft:chromium_ore"
+  },
+  "result": {
+    "item": "slothcraft:chromium_ingot"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "bacon",
+    "customModelName": "Normal",
+    "name": "Bacon",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftFoodCreativeTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 10,
+    "saturation": 42.0,
+    "eatingSpeed": 30,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true
+  }
+}

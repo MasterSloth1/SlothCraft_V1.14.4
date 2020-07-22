@@ -1,0 +1,39 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/osmium"
+    },
+    "2": {
+      "tag": "forge:ingots/osmium"
+    },
+    "3": {
+      "tag": "forge:ingots/osmium"
+    },
+    "4": {
+      "tag": "forge:ingots/osmium"
+    },
+    "5": {
+      "tag": "forge:ingots/osmium"
+    },
+    "6": {
+      "tag": "forge:ingots/osmium"
+    },
+    "7": {
+      "tag": "forge:ingots/osmium"
+    },
+    "8": {
+      "tag": "forge:ingots/osmium"
+    }
+  },
+  "result": {
+    "item": "slothcraft:osmium_armorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:gems/amethyst"
+    },
+    "2": {
+      "tag": "forge:gems/amethyst"
+    },
+    "3": {
+      "tag": "forge:gems/amethyst"
+    },
+    "5": {
+      "tag": "forge:gems/amethyst"
+    }
+  },
+  "result": {
+    "item": "slothcraft:amethyst_armorboots",
+    "count": 1
+  }
+}

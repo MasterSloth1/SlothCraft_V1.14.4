@@ -1,0 +1,27 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "34 ",
+    " 7 "
+  ],
+  "key": {
+    "2": {
+      "tag": "forge:glass"
+    },
+    "3": {
+      "tag": "forge:glass"
+    },
+    "4": {
+      "tag": "forge:glass"
+    },
+    "7": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "item": "slothcraft:glass_receptacle_item",
+    "count": 1
+  }
+}

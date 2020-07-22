@@ -1,0 +1,39 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "slothcraft:mince_food"
+    },
+    "1": {
+      "item": "slothcraft:bacon_food"
+    },
+    "2": {
+      "item": "slothcraft:cheese_food"
+    },
+    "3": {
+      "item": "slothcraft:dough_food"
+    },
+    "5": {
+      "item": "slothcraft:dough_food"
+    },
+    "6": {
+      "item": "slothcraft:dough_food"
+    },
+    "7": {
+      "item": "slothcraft:dough_food"
+    },
+    "8": {
+      "item": "slothcraft:dough_food"
+    }
+  },
+  "result": {
+    "item": "slothcraft:pie_food",
+    "count": 1
+  }
+}

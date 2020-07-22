@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TitaniumOreBlock"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "storage_blocks/titanium",
+    "namespace": "forge"
+  }
+}

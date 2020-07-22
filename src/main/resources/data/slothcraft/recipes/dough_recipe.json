@@ -1,0 +1,19 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:flour_food"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "slothcraft:butter_food"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:dough_food",
+    "count": 1
+  }
+}

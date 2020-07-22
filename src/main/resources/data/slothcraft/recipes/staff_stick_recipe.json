@@ -1,0 +1,42 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:plates/wood"
+    },
+    "1": {
+      "tag": "forge:plates/gold"
+    },
+    "2": {
+      "tag": "forge:plates/wood"
+    },
+    "3": {
+      "tag": "forge:plates/wood"
+    },
+    "4": {
+      "tag": "forge:rods/wooden"
+    },
+    "5": {
+      "tag": "forge:plates/wood"
+    },
+    "6": {
+      "tag": "forge:plates/wood"
+    },
+    "7": {
+      "tag": "forge:plates/gold"
+    },
+    "8": {
+      "tag": "forge:plates/wood"
+    }
+  },
+  "result": {
+    "item": "slothcraft:staff_stick_item",
+    "count": 1
+  }
+}

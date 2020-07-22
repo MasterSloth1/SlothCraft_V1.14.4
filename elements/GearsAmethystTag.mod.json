@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AmethystGearItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gears/amethyst",
+    "namespace": "forge"
+  }
+}

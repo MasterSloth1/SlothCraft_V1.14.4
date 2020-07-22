@@ -1,0 +1,42 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/nickel"
+    },
+    "1": {
+      "tag": "forge:ingots/nickel"
+    },
+    "2": {
+      "tag": "forge:ingots/nickel"
+    },
+    "3": {
+      "tag": "forge:ingots/nickel"
+    },
+    "4": {
+      "tag": "forge:ingots/nickel"
+    },
+    "5": {
+      "tag": "forge:ingots/nickel"
+    },
+    "6": {
+      "tag": "forge:ingots/nickel"
+    },
+    "7": {
+      "tag": "forge:ingots/nickel"
+    },
+    "8": {
+      "tag": "forge:ingots/nickel"
+    }
+  },
+  "result": {
+    "item": "slothcraft:nickel_ore_block",
+    "count": 1
+  }
+}

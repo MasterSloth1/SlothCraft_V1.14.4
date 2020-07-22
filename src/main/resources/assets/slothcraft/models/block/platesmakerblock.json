@@ -1,0 +1,8 @@
+{
+  "parent": "slothcraft:custom/platemaker_animation",
+  "textures": {
+    "all": "slothcraft:blocks/platesmachine",
+    "particle": "slothcraft:blocks/platesmachine",
+    "main": "slothcraft:blocks/plateakernimation"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:knife_item"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:bacon_food",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/titanium"
+    },
+    "2": {
+      "tag": "forge:ingots/titanium"
+    },
+    "3": {
+      "tag": "forge:ingots/titanium"
+    },
+    "5": {
+      "tag": "forge:ingots/titanium"
+    }
+  },
+  "result": {
+    "item": "slothcraft:titanium_armorboots",
+    "count": 1
+  }
+}

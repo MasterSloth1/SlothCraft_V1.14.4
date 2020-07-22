@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "slothcraft:block/platesmakerblock"
+    },
+    "facing=east": {
+      "model": "slothcraft:block/platesmakerblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "slothcraft:block/platesmakerblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "slothcraft:block/platesmakerblock",
+      "y": 270
+    }
+  }
+}

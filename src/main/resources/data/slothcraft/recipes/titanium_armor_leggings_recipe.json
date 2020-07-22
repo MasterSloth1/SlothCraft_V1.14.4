@@ -1,0 +1,36 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/titanium"
+    },
+    "1": {
+      "tag": "forge:ingots/titanium"
+    },
+    "2": {
+      "tag": "forge:ingots/titanium"
+    },
+    "3": {
+      "tag": "forge:ingots/titanium"
+    },
+    "5": {
+      "tag": "forge:ingots/titanium"
+    },
+    "6": {
+      "tag": "forge:ingots/titanium"
+    },
+    "8": {
+      "tag": "forge:ingots/titanium"
+    }
+  },
+  "result": {
+    "item": "slothcraft:titanium_armorlegs",
+    "count": 1
+  }
+}

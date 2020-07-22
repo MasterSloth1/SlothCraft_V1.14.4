@@ -1,0 +1,29 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:gems/jade"
+    },
+    "1": {
+      "tag": "forge:gems/jade"
+    },
+    "2": {
+      "tag": "forge:gems/jade"
+    },
+    "3": {
+      "tag": "forge:gems/jade"
+    },
+    "5": {
+      "tag": "forge:gems/jade"
+    }
+  },
+  "result": {
+    "item": "slothcraft:jade_armorhelmet",
+    "count": 1
+  }
+}

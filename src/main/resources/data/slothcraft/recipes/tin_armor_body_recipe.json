@@ -1,0 +1,39 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/tin"
+    },
+    "2": {
+      "tag": "forge:ingots/tin"
+    },
+    "3": {
+      "tag": "forge:ingots/tin"
+    },
+    "4": {
+      "tag": "forge:ingots/tin"
+    },
+    "5": {
+      "tag": "forge:ingots/tin"
+    },
+    "6": {
+      "tag": "forge:ingots/tin"
+    },
+    "7": {
+      "tag": "forge:ingots/tin"
+    },
+    "8": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "result": {
+    "item": "slothcraft:tin_armorbody",
+    "count": 1
+  }
+}

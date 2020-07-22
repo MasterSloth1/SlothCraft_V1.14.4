@@ -1,0 +1,25 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "wip",
+    "customModelName": "Normal",
+    "name": "Packed Glass Receptacle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftOtherCreativeTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 210.0,
+    "eatingSpeed": 20,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "PackedGlassReceptacleFoodFoodEaten"
+    }
+  }
+}

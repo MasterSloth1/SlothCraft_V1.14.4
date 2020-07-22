@@ -1,0 +1,27 @@
+{
+  "_fv": 8,
+  "_type": "loottable",
+  "definition": {
+    "type": "Entity",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 3,
+        "hasbonusrolls": true,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ShinyDiamond"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "entities/ender_dragon",
+    "namespace": "minecraft"
+  }
+}

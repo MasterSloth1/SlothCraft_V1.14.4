@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "butter",
+    "customModelName": "Normal",
+    "name": "Butter",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftFoodCreativeTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 1.0,
+    "eatingSpeed": 30,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

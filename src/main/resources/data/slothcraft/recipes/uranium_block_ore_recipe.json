@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:uranium_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:uranium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/copper"
+    },
+    "2": {
+      "tag": "forge:ingots/copper"
+    },
+    "3": {
+      "tag": "forge:ingots/copper"
+    },
+    "5": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "slothcraft:copper_armorboots",
+    "count": 1
+  }
+}

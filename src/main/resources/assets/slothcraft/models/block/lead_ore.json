@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "slothcraft:blocks/lead_ore",
+    "particle": "slothcraft:blocks/lead_ore"
+  }
+}

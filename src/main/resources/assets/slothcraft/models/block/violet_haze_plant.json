@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "slothcraft:blocks/violethaze",
+    "particle": "slothcraft:blocks/violethaze"
+  }
+}

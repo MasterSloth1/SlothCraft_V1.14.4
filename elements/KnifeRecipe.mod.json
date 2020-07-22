@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": "TAG:forge:plates/wood"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:plates/wood"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:KnifeItem"
+    },
+    "name": "knife_recipe",
+    "namespace": "mod"
+  }
+}

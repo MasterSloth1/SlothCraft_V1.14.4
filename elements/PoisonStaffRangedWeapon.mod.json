@@ -1,0 +1,39 @@
+{
+  "_fv": 8,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "wip",
+    "customModelName": "Normal",
+    "name": "Poison Staff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftArmourAndWeaponsCreativeTab"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 128,
+    "actionSound": {
+      "value": "entity.slime.jump"
+    },
+    "hasGlow": true,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 6.0,
+    "bulletPower": 1.5,
+    "bulletDamage": 4.800000000000001,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.SLIME_BALL"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "PoisonStaffRangedWeaponBulletHitsLivingEntity"
+    }
+  }
+}

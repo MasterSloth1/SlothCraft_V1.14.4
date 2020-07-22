@@ -1,0 +1,39 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/silver"
+    },
+    "2": {
+      "tag": "forge:ingots/silver"
+    },
+    "3": {
+      "tag": "forge:ingots/silver"
+    },
+    "4": {
+      "tag": "forge:ingots/silver"
+    },
+    "5": {
+      "tag": "forge:ingots/silver"
+    },
+    "6": {
+      "tag": "forge:ingots/silver"
+    },
+    "7": {
+      "tag": "forge:ingots/silver"
+    },
+    "8": {
+      "tag": "forge:ingots/silver"
+    }
+  },
+  "result": {
+    "item": "slothcraft:silver_armorbody",
+    "count": 1
+  }
+}

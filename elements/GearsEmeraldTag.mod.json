@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EmeraldGearItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gears/emerald",
+    "namespace": "forge"
+  }
+}

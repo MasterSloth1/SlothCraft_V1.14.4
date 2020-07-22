@@ -1,0 +1,24 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:gems/ruby"
+    },
+    "1": {
+      "tag": "forge:gems/ruby"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "slothcraft:ruby_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "slothcraft:blocks/zinc_ore_block",
+    "particle": "slothcraft:blocks/zinc_ore_block"
+  }
+}

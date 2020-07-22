@@ -1,0 +1,43 @@
+{
+  "_fv": 8,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "violethaze",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Crop",
+    "growapableMaxHeight": 3,
+    "name": "Violet Haze Plant",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "CUSTOM:VioletHazeLeafItem"
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "isReplaceable": false,
+    "colorOnMap": "MAGENTA",
+    "creativePickItem": {
+      "value": "CUSTOM:VioletHazePlant"
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "OPEN",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 2,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

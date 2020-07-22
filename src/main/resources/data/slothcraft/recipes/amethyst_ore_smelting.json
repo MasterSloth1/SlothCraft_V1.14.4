@@ -1,0 +1,12 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:smelting",
+  "experience": 0.9099999999999998,
+  "cookingtime": 200,
+  "ingredient": {
+    "tag": "forge:ores/amethyst"
+  },
+  "result": {
+    "item": "slothcraft:amethyst_gem"
+  }
+}

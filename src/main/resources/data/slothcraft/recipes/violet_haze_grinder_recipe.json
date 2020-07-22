@@ -1,0 +1,32 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:plates/iron"
+    },
+    "1": {
+      "item": "slothcraft:knife_item"
+    },
+    "2": {
+      "tag": "forge:plates/iron"
+    },
+    "3": {
+      "tag": "forge:plates/iron"
+    },
+    "4": {
+      "tag": "forge:plates/iron"
+    },
+    "5": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "result": {
+    "item": "slothcraft:violet_haze_grinder_item",
+    "count": 1
+  }
+}

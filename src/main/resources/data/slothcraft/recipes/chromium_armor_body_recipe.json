@@ -1,0 +1,39 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/chromium"
+    },
+    "2": {
+      "tag": "forge:ingots/chromium"
+    },
+    "3": {
+      "tag": "forge:ingots/chromium"
+    },
+    "4": {
+      "tag": "forge:ingots/chromium"
+    },
+    "5": {
+      "tag": "forge:ingots/chromium"
+    },
+    "6": {
+      "tag": "forge:ingots/chromium"
+    },
+    "7": {
+      "tag": "forge:ingots/chromium"
+    },
+    "8": {
+      "tag": "forge:ingots/chromium"
+    }
+  },
+  "result": {
+    "item": "slothcraft:chromium_armorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:lead_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:lead_ingot",
+    "count": 9
+  }
+}

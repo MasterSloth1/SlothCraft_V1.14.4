@@ -1,0 +1,12 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:smelting",
+  "experience": 1.19,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "slothcraft:uranium_ore"
+  },
+  "result": {
+    "item": "slothcraft:uranium_ingot"
+  }
+}

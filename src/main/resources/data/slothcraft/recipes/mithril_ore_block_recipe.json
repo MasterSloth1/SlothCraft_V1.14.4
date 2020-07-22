@@ -1,0 +1,42 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/mithril"
+    },
+    "1": {
+      "tag": "forge:ingots/mithril"
+    },
+    "2": {
+      "tag": "forge:ingots/mithril"
+    },
+    "3": {
+      "tag": "forge:ingots/mithril"
+    },
+    "4": {
+      "tag": "forge:ingots/mithril"
+    },
+    "5": {
+      "tag": "forge:ingots/mithril"
+    },
+    "6": {
+      "tag": "forge:ingots/mithril"
+    },
+    "7": {
+      "tag": "forge:ingots/mithril"
+    },
+    "8": {
+      "tag": "forge:ingots/mithril"
+    }
+  },
+  "result": {
+    "item": "slothcraft:mithril_ore_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "slothcraft:block/osmium_ore_block"
+    }
+  }
+}

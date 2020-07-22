@@ -1,0 +1,33 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "34 ",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_bars"
+    },
+    "1": {
+      "tag": "forge:plates/wood"
+    },
+    "3": {
+      "tag": "forge:plates/wood"
+    },
+    "4": {
+      "tag": "forge:ingots/iron"
+    },
+    "7": {
+      "tag": "forge:ingots/iron"
+    },
+    "8": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "slothcraft:knife_item",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/iridium"
+    },
+    "1": {
+      "tag": "forge:ingots/iridium"
+    },
+    "2": {
+      "tag": "forge:ingots/iridium"
+    },
+    "3": {
+      "tag": "forge:ingots/iridium"
+    },
+    "4": {
+      "tag": "forge:ingots/iridium"
+    },
+    "5": {
+      "tag": "forge:ingots/iridium"
+    },
+    "6": {
+      "tag": "forge:ingots/iridium"
+    },
+    "7": {
+      "tag": "forge:ingots/iridium"
+    },
+    "8": {
+      "tag": "forge:ingots/iridium"
+    }
+  },
+  "result": {
+    "item": "slothcraft:iridium_ore_block",
+    "count": 1
+  }
+}

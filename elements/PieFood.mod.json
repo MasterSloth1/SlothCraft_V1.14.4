@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "pie",
+    "customModelName": "Normal",
+    "name": "Beef, Bacon and Cheese Pie",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftFoodCreativeTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 20,
+    "saturation": 21.0,
+    "eatingSpeed": 20,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true
+  }
+}

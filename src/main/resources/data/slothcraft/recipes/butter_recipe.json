@@ -1,0 +1,19 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:whisk_item"
+    },
+    {
+      "item": "slothcraft:salt_food"
+    },
+    {
+      "item": "slothcraft:cream_food"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:butter_food",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:iridium_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:iridium_ingot",
+    "count": 9
+  }
+}

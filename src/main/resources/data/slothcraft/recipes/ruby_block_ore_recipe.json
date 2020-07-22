@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:ruby_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:ruby_gem",
+    "count": 9
+  }
+}

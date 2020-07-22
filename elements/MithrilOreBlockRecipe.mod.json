@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      },
+      {
+        "value": "TAG:forge:ingots/mithril"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MithrilOreBlock"
+    },
+    "name": "mithril_ore_block_recipe",
+    "namespace": "mod"
+  }
+}

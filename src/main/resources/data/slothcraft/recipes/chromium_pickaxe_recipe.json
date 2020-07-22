@@ -1,0 +1,30 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/chromium"
+    },
+    "1": {
+      "tag": "forge:ingots/chromium"
+    },
+    "2": {
+      "tag": "forge:ingots/chromium"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "slothcraft:chromium_pickaxe",
+    "count": 1
+  }
+}

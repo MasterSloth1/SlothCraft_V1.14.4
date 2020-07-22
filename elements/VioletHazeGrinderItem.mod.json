@@ -1,0 +1,27 @@
+{
+  "_fv": 8,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "grinder",
+    "customModelName": "Normal",
+    "name": "Grinder",
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftOtherCreativeTab"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

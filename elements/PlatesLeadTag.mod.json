@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LeadPlateItem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "plates/lead",
+    "namespace": "forge"
+  }
+}

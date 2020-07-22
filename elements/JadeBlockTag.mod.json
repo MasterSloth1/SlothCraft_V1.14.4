@@ -1,0 +1,16 @@
+{
+  "_fv": 8,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:JadeOreBlock"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "storage_blocks/jade",
+    "namespace": "forge"
+  }
+}

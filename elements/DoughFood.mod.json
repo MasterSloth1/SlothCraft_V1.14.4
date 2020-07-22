@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "dough",
+    "customModelName": "Normal",
+    "name": "Dough",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SlothCraftFoodCreativeTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 1.0,
+    "eatingSpeed": 30,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

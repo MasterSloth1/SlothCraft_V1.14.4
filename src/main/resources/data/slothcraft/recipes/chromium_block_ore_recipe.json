@@ -1,0 +1,13 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:chromium_ore_block"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:chromium_ingot",
+    "count": 9
+  }
+}

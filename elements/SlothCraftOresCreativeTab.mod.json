@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Sloth Craft Ores",
+    "icon": {
+      "value": "CUSTOM:AmethystOre"
+    },
+    "showSearch": true
+  }
+}

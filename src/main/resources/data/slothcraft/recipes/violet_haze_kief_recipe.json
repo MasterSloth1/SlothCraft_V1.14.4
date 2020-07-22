@@ -1,0 +1,16 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slothcraft:violet_haze_grinder_item"
+    },
+    {
+      "item": "slothcraft:violet_haze_nug_item"
+    }
+  ],
+  "result": {
+    "item": "slothcraft:violet_haze_kief_item",
+    "count": 1
+  }
+}

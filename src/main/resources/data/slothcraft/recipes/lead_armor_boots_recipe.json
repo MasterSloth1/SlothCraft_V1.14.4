@@ -1,0 +1,26 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/lead"
+    },
+    "2": {
+      "tag": "forge:ingots/lead"
+    },
+    "3": {
+      "tag": "forge:ingots/lead"
+    },
+    "5": {
+      "tag": "forge:ingots/lead"
+    }
+  },
+  "result": {
+    "item": "slothcraft:lead_armorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "slothcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/copper"
+    },
+    "1": {
+      "tag": "forge:ingots/copper"
+    },
+    "2": {
+      "tag": "forge:ingots/copper"
+    },
+    "3": {
+      "tag": "forge:ingots/copper"
+    },
+    "5": {
+      "tag": "forge:ingots/copper"
+    },
+    "6": {
+      "tag": "forge:ingots/copper"
+    },
+    "8": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "slothcraft:copper_armorlegs",
+    "count": 1
+  }
+}
