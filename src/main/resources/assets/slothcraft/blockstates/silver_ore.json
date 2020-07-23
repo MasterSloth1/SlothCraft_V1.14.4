@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
       "model": "slothcraft:block/silver_ore"
+    },
+    "facing=east": {
+      "model": "slothcraft:block/silver_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "slothcraft:block/silver_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "slothcraft:block/silver_ore",
+      "y": 270
     }
   }
 }
